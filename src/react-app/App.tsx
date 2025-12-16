@@ -13,9 +13,9 @@ function App() {
 		<>
 			<div>
 				<a href="https://www.youtube.com/@desertfalcon-x8z" target="_blank">
-					<img src={viteLogo} className="logo" alt="Desert Falcon" />
+					<img src={reactLogo} className="logo" alt="Desert Falcon" />
 				</a>
-
+			</div>
 			<h1>Welcome to AI Singers</h1>
 			<div className="card">
 				<button
