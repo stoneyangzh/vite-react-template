@@ -12,7 +12,7 @@ function App() {
 	return (
 		<>
 			<div>
-				<a href="https://www.youtube.com/@desertfalcon-x8z" target="_blank">
+				<a href="https%3A%2F%2Fwww.youtube.com%2F%40desertfalcon-x8z" target="_blank">
 					<img src={reactLogo} className="logo" alt="Desert Falcon" />
 				</a>
 			</div>
